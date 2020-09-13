@@ -1,7 +1,7 @@
 # CartPole_Gym
 Solving CartPole from Gym (from OpenAI) using CrossEntropy
 
-After about 200 iterations and still training:
+After about 250 iterations and still training:
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/57571014/93023937-d3a63f80-f5f2-11ea-8f18-dc17c4d9f78b.gif)
 
