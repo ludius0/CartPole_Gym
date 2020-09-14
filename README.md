@@ -1,5 +1,7 @@
 # CartPole_Gym
-Solving CartPole from Gym (from OpenAI) using CrossEntropy
+
+
+*Solving CartPole from Gym (from OpenAI) using CrossEntropy method
 
 After about 250 iterations and still training:
 
